@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "La Muralla Verde",
+  "base_artist": "Los Enanitos Verdes",
+  "createdAt": "2026-02-13T03:08:26.737587Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La Muralla Verde",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/01_La_Muralla_Verde_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "02 - La Muralla Verde",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/02_02_-_La_Muralla_Verde_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Muralla Verde",
+      "artist": "Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/03_La_Muralla_Verde_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La Muralla Verde",
+      "artist": "Enanitos Verdes, Los",
+      "has_synced": true,
+      "path": "select/04_La_Muralla_Verde_Enanitos_Verdes,_Los.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La muralla verde",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/05_La_muralla_verde_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "La Muralla Verde - En Vivo Desde Tijuana, Mexico/2004",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": false,
+      "path": "select/06_La_Muralla_Verde_-_En_Vivo_Desde_Tijuana,_Mexico_2004_Los_Enanitos_Verdes.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Muralla Verde",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/07_La_Muralla_Verde_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La Muralla Verde",
+      "artist": "Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/08_La_Muralla_Verde_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La muralla verde",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/09_La_muralla_verde_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La Muralla Verde",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/10_La_Muralla_Verde_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La Muralla Verde",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/11_La_Muralla_Verde_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "La Muralla Verde",
+      "artist": "Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/12_La_Muralla_Verde_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "La muralla verde",
+      "artist": "Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/13_La_muralla_verde_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "La Muralla Verde (Album Version)",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/14_La_Muralla_Verde_(Album_Version)_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La Muralla Verde - En Vivo",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/15_La_Muralla_Verde_-_En_Vivo_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "La Muralla Verde (En Vivo)",
+      "artist": "Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/16_La_Muralla_Verde_(En_Vivo)_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "La Muralla Verde",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": false,
+      "path": "select/pl_01_La_Muralla_Verde_Los_Enanitos_Verdes.txt"
+    }
+  ]
+}
