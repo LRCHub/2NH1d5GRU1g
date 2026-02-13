@@ -1,0 +1,35 @@
+# Los Enanitos Verdes – La Muralla Verde
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.69] Estoy parado sobre la muralla que divide
+[00:19.78] Todo lo que fue de lo que será
+[00:23.00] Estoy mirando como esas viejas ilusiones
+[00:26.79] Pasando la muralla se hacen realidad
+[00:44.79] 
+[00:30.26] Pero como el amor de ayer
+[00:33.54] Pero como el amor de ayer
+[00:37.59] Vuelve a desaparecer
+[00:41.09] Desaparecer
+[00:46.59] 
+[00:58.23] Estoy parado sobre la muralla que divide
+[01:02.10] Todo lo que amé de lo que amaré
+[01:05.76] Estoy mirando como mis heridas se cerraron
+[01:09.49] Y como se desangra un nuevo corazón
+[01:26.99] 
+[01:12.57] Pero como el amor de ayer
+[01:16.19] Pero como el amor de ayer
+[01:20.04] Vuelve a desaparecer
+[01:23.30] Desaparecer
+[01:28.80] 
+[01:40.91] Estoy parado sobre la muralla que divide
+[01:44.69] Todo lo que fue de lo que será
+[01:48.31] Estoy mirando como aquella vieja psicodelia
+[01:52.02] Estoy fijándome como viene y va
+[02:07.52] 
+[01:54.90] Pero como el amor de ayer
+[01:58.83] Pero como el amor de ayer
+[02:02.45] Vuelve a desaparecer
+[02:05.90] Desaparecer
+```
